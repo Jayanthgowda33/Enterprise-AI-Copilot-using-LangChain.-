@@ -1,0 +1,3 @@
+cd C:\Users\gowda\OneDrive\Desktop\Projects\enterprise-copilot\enterprise-copilot\backend
+.\venv\Scripts\activate
+uvicorn main:app --reload --port 8000
